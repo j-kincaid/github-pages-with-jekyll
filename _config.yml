@@ -1,6 +1,7 @@
 ---
 title: "Jessica's Art and Development"
 date: 2021-08-28
+---
 author: Jessica Kincaid
 email: 4j.kincaid@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -11,4 +12,3 @@ twitter_username: jessica_k1ncaid # DO NOT include the @ character, or else the 
 github_username:  j-kincaid # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
----
